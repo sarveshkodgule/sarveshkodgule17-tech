@@ -1,7 +1,7 @@
 
 👋 Hi, I'm Sarvesh
 🎓 3rd-year Engineering Student
-💻 Beginner Java Developer & .NET Developer
+💻 Beginner Java Developer & Full stack Developer
 ☁️ Exploring Cloud, Software Engineering, and Full-Stack Development
 
 
