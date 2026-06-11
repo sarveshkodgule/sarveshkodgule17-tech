@@ -1,8 +1,8 @@
 
 👋 Hi, I'm Sarvesh
 🎓 3rd-year Engineering Student
-💻 Beginner Java Developer & Full stack Developer
-☁️ Exploring Cloud, Software Engineering, and Full-Stack Development
+💻 Beginner Software Developer & AI/ML Engineer
+☁️ Exploring AI,ML, Software Engineering, and Full-Stack Development
 
 
 
