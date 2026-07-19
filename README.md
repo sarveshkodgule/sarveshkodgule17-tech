@@ -1,6 +1,6 @@
 
 👋 Hi, I'm Sarvesh
-🎓 3rd-year Engineering Student
+🎓 Last Year Engineering Student
 💻 Beginner Software Developer & AI/ML Engineer
 ☁️ Exploring AI,ML, Software Engineering, and Full-Stack Development
 
