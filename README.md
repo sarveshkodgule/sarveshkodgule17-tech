@@ -63,10 +63,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 **Game Dev (Hobby)**
-
 ![Unity](https://img.shields.io/badge/-Unity-100000?style=flat-square&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 
 ---
 
