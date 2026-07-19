@@ -8,12 +8,6 @@
 
 ---
 
-<h1 align="center">Hi, I'm Sarvesh 👋</h1>
-<h3 align="center">Final Year IT Student | Software Developer & AI/ML Enthusiast</h3>
-
-<p align="center">
-🎓 B.Tech IT (2023–2027) &nbsp;•&nbsp; 💻 .NET Developer Intern &nbsp;•&nbsp; ☁️ Learning AI/ML & Full-Stack Dev
-</p>
 
 ---
 
