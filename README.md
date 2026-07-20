@@ -13,7 +13,6 @@
 
 ### 🙋‍♂️ About Me
 - 🎓 Final-year IT student at Rajarambapu Institute of Technology  
-- 💼 Completed a .NET Developer internship at Pacific Oracle  
 - 🧠 Building projects in AI/ML and Full-Stack Development  
 - 🎮 Game Development as a hobby  
 - 🌱 Preparing for my first full-time role as a fresher  
